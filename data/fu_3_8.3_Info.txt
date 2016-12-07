@@ -1,0 +1,21 @@
+Margin (X-axis): 97 [pixel]
+Margin (Y-axis): 97 [pixel]
+Interval (X-axis): 3 [pixel]
+Interval (Y-axis): 3 [pixel]
+Number of POI: 10000 = 100 X 100
+Subset dimension: 21x21 pixels
+Time for img load: 1167.54 [millisec]
+Time for Device Alloc: 18.2089 [millisec]Time for Host Alloc: 0.824061 [millisec]
+Time for Device Free: 12.2079 [millisec]Time for Host Free: 0.617805 [millisec]
+Time for cufft Preparation: 31.9013 [millisec]Time for fft Destroy: 6.1835 [millisec]
+Time comsumed: 32.4527 [millisec]
+Time for copy: 0.520992 [millisec]
+Time for all integral-pixel registration: 5.23965 [millisec]
+Time for Pre-computation: 0.427264 [millisec]
+Time for all sub-pixel registration: 25.4761 [millisec]
+Time for all icgn hessian part: 10.9989 [millisec]
+Time for all icgn iteration part: 14.4772 [millisec]
+Time for integral-pixel registration: 0.000523965 [millisec]
+Time for sub-pixel registration: 0.00254761 [millisec] for average iteration steps of 3.8356
+512, 512, 3, 3, 97, 97, 100, 100
+10000, 32.4527, 5.23965, 25.4761, 0.520992
